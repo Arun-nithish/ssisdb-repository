@@ -1,0 +1,3 @@
+*.log
+*.pbix.bak
+.DS_Store
